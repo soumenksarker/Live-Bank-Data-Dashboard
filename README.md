@@ -1,7 +1,6 @@
 
 # Add a User Authentication Service (Login Form) in Streamlit + Database
-This is the second part of adding a user authentication service (login form) in Streamlit.
-In this part, we are reading/writing the user credentials from/to a database instead of a pickle file.
+We are reading/writing the user credentials from/to a database instead of a pickle file.
 In particular, we will be using the free database from deta (https://www.deta.sh/)
 
 ## Demo Website
