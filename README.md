@@ -9,6 +9,9 @@ In particular, we will be using the free database from deta (https://www.deta.sh
 ## Dataset
 ⭐https://www.kaggle.com/code/aleksandradeis/bank-marketing-analysis/data)
 
+##for more info
+⭐https://github.com/Lexie88rus/bank-marketing-analysis
+
 ## Environment Variables
 To run this project, you will need to add the following environment variable to your .env file
 `DETA_KEY`
