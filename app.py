@@ -34,10 +34,10 @@ name, authentication_status, username = authenticator.login("Login", "main")
 if authentication_status == False:
     st.error("Username/password is incorrect")
 
-if authentication_status == None:
+elif authentication_status == None:
     st.warning("Please enter your username and password")
 
-if authentication_status:
+elif authentication_status:
     # read csv from a github repo
     dataset_url = "https://raw.githubusercontent.com/Lexie88rus/bank-marketing-analysis/master/bank.csv"
 
