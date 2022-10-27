@@ -16,7 +16,7 @@ st.set_page_config(
 
 # --- DEMO PURPOSE ONLY --- #
 placeholder = st.empty()
-placeholder.info("CREDENTIALS | username:Soumen Sarker; password:abc123")
+placeholder.info("CREDENTIALS | username:Soumen Sarker; password:abc")
 # ------------------------- #
 
 # --- USER AUTHENTICATION ---
