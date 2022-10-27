@@ -39,7 +39,7 @@ default_index=0,
 #orientation="horizontal"
 )
 
-st.title("Simple Chatbot for fun!")
+st.title("Simple Bank Marketing Campaign!")
 if choice == "Login":
     #st.session_state.history=[]
     st.subheader("Login Section")
