@@ -128,12 +128,12 @@ if choice == "Login":
                     st.markdown("### Detailed Data View")
                     st.dataframe(df)
                     time.sleep(1)
- elif choice == "SignUp":
-        st.subheader("Register Here!")
-        new_user = st.text_input("Username")
-        new_password = st.text_input("Password", type='password')
-        if st.button("SignUp"):
-            create_usertable()
-            add_userdata(new_user, new_password)
-            st.success("You have successfully created a valid Account")
-            st.info("Please Login...")
+elif choice == "SignUp":
+    st.subheader("Register Here!")
+    new_user = st.text_input("Username")
+    new_password = st.text_input("Password", type='password')
+    if st.button("SignUp"):
+        create_usertable()
+        add_userdata(new_user, new_password)
+        st.success("You have successfully created a valid Account")
+        st.info("Please Login...")
