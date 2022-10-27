@@ -7,7 +7,7 @@ In particular, we will be using the free database from deta (https://www.deta.sh
 ⭐ https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/
 
 ## Dataset
-⭐https://raw.githubusercontent.com/Lexie88rus/bank-marketing-analysis/master/bank.csv
+⭐https://githubusercontent.com/Lexie88rus/bank-marketing-analysis/master/bank.csv
 
 ## Environment Variables
 To run this project, you will need to add the following environment variable to your .env file
